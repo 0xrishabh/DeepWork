@@ -13,4 +13,4 @@ It can help you with focusing on specific topics instead of opening 5000 tabs at
 # Features:
 
 * A switch button by which you can open or close the Focus mode.
-* In Focus mode, you are allowed to open only `5` tabs per window.
+* In Focus mode, you are allowed to open only `3` tabs per window.
